@@ -4,6 +4,10 @@ body {
 	background-color: #2B303B
 }
 
+.code {
+  word-wrap: break-word;
+}
+
 * {
 	margin: 0px;
 	padding: 0px;
