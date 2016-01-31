@@ -17,7 +17,7 @@ var profiles = {
 	angellist: 'https://angel.co/joel-lovera'
 };
 
-var blog = 'https://jstips.co';
+var blog = 'http://jstips.co';
 
 // Latest open source projects
 var openSource = [
