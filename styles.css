@@ -4,7 +4,7 @@ body {
 	background-color: #2B303B
 }
 
-.code {
+code {
   word-wrap: break-word;
 }
 
