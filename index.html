@@ -1,94 +1,35 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>@loverajoel</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
-<body>
-    <div class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="kd">let</span> <span class="nx">me</span> <span class="o">=</span> <span class="p">{</span>
-    <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;Joel&#39;</span><span class="p">,</span>
-    <span class="nx">lastname</span><span class="o">:</span> <span class="s1">&#39;Lovera&#39;</span><span class="p">,</span>
-    <span class="nx">nationality</span><span class="o">:</span> <span class="s1">&#39;Argentina&#39;</span>
-<span class="p">};</span>
+---
+layout: default
+title: "Joel Lovera"
+---
+<div class="introduction">
+  <h1>Hi there!</h1>
 
-<span class="kd">let</span> <span class="nx">currentPosition</span> <span class="o">=</span> <span class="p">{</span>
-    <span class="nx">company</span><span class="o">:</span> <span class="s1">&#39;Olapic&#39;</span><span class="p">,</span>
-    <span class="nx">url</span><span class="o">:</span> <span class="s1">&#39;https://www.olapic.com&#39;</span><span class="p">,</span>
-    <span class="nx">role</span><span class="o">:</span> <span class="s1">&#39;Javascript Developer&#39;</span>
-<span class="p">};</span>
+  <p>
+    I’m <a href="https://twitter.com/loverajoel" target="_blank">Joel</a>, I’m an adventurous and a self-starter, growing from the uncomfortability.</br>
+    Living my life dictated for my <a href="/texts/principles/" target="_blank">principles</a>; influenced by <a href="https://www.goodreads.com/user/show/23696687-joel-lovera" target="_blank">books</a>.</br>
+    Currently working on <a href="https://magicplaylist.co" target="_blank">spread the music</a> and writing <a href="#" target="_blank">From Zero to Product Manager.</a></br>
+    Most publications of this site are part of my <a href="https://medium.com/read-smart/what-is-a-commonplace-book-db392bda730c" target="_blank">commonplace book</a>.</br>
+  </p>
+ 
+</div>
 
-<span class="kd">let</span> <span class="nx">profiles</span> <span class="o">=</span> <span class="p">{</span>
-    <span class="nx">github</span><span class="o">:</span> <span class="s1">&#39;https://github.com/loverajoel&#39;</span><span class="p">,</span>
-    <span class="nx">twitter</span><span class="o">:</span> <span class="s1">&#39;https://twitter.com/loverajoel&#39;</span><span class="p">,</span>
-    <span class="nx">angellist</span><span class="o">:</span> <span class="s1">&#39;https://angel.co/joel-lovera&#39;</span>
-<span class="p">};</span>
+<hr>
 
-<span class="kd">let</span> <span class="nx">blog</span> <span class="o">=</span> <span class="s1">&#39;http://jstips.co&#39;</span><span class="p">;</span>
+<div class="toc">
+  <h2>texts</h2>
+  <ul class="texts">
+  {% for item in site.texts %}
+  
+    <li class="text-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+    </li>
+  {% endfor %}
+    <!-- <li><a href="/old">My old and pretty site</a></li> -->
+  </ul>
+</div>
 
-<span class="c1">// Side projects</span>
-<span class="kd">let</span> <span class="nx">sideProjects</span> <span class="o">=</span> <span class="p">[</span>
-    <span class="p">{</span>
-        <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;Infinite Music Trivia&#39;</span><span class="p">,</span>
-        <span class="nx">site</span><span class="o">:</span> <span class="s1">&#39;https://imt.rocks&#39;</span><span class="p">,</span>
-        <span class="nx">description</span><span class="o">:</span> <span class="p"></span><span class="s1">&#39;IMT it's a game that challenges your music knowledge&#39;</span><span class="p">,</span>
-        <span class="nx">roles</span><span class="o">:</span> <span class="p">[</span><span class="s1">&#39;autor&#39;</span><span class="p">],</span>
-        <span class="nx">tags</span><span class="o">:</span> <span class="p">[</span><span class="s1">&#39;js&#39;</span><span class="p">,</span> <span class="s1">&#39;es6&#39;</span><span class="p">,</span> <span class="s1">&#39;react&#39;</span><span class="p">,</span> <span class="s1">&#39;redux&#39;</span><span class="p">]</span>
-    <span class="p">},</span>
-    <span class="p">{</span>
-        <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;Gesto&#39;</span><span class="p">,</span>
-        <span class="nx">site</span><span class="o">:</span> <span class="s1">&#39;http://gesto.co&#39;</span><span class="p">,</span>
-        <span class="nx">description</span><span class="o">:</span> <span class="p"></span><span class="s1">&#39;Gesto is a digital information system in the cloud for fertility clinics&#39;</span><span class="p">,</span>
-        <span class="nx">roles</span><span class="o">:</span> <span class="p">[</span><span class="s1">&#39;autor&#39;</span><span class="p">],</span>
-        <span class="nx">tags</span><span class="o">:</span> <span class="p">[</span><span class="s1">&#39;js&#39;</span><span class="p">,</span> <span class="s1">&#39;angular&#39;</span><span class="p">,</span> <span class="s1">&#39;python&#39;</span><span class="p">]</span>
-    <span class="p">},</span>
-<span class="p">];</span>
 
-<span class="c1">// Latest open source projects</span>
-<span class="kd">let</span> <span class="nx">openSource</span> <span class="o">=</span> <span class="p">[</span>
-    <span class="p">{</span>
-        <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;20v&#39;</span><span class="p">,</span>
-        <span class="nx">repository</span><span class="o">:</span> <span class="s1">&#39;https://github.com/fusenlabs/20v&#39;</span><span class="p">,</span>
-        <span class="nx">roles</span><span class="o">:</span> <span class="p">[</span><span class="s1">&#39;autor&#39;</span><span class="p">],</span>
-        <span class="nx">tags</span><span class="o">:</span> <span class="p">[</span><span class="s1">&#39;js&#39;</span><span class="p">,</span> <span class="s1">&#39;es6&#39;</span><span class="p">,</span> <span class="s1">&#39;react&#39;</span><span class="p">,</span> <span class="s1">&#39;redux&#39;</span><span class="p">]</span>
-    <span class="p">},</span>
-    <span class="p">{</span>
-        <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;spotify-sdk&#39;</span><span class="p">,</span>
-        <span class="nx">repository</span><span class="o">:</span> <span class="s1">&#39;https://github.com/loverajoel/spotify-sdk&#39;</span><span class="p">,</span>
-        <span class="nx">roles</span><span class="o">:</span> <span class="p">[</span><span class="s1">&#39;autor&#39;</span><span class="p">],</span>
-        <span class="nx">tags</span><span class="o">:</span> <span class="p">[</span><span class="s1">&#39;js&#39;</span><span class="p">,</span> <span class="s1">&#39;es6&#39;</span><span class="p">]</span>
-    <span class="p">},</span>
-    <span class="p">{</span>
-        <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;MagicPlaylist&#39;</span><span class="p">,</span>
-        <span class="nx">url</span><span class="o">:</span> <span class="s1">&#39;http://magicplaylist.co&#39;</span><span class="p">,</span>
-        <span class="nx">repository</span><span class="o">:</span> <span class="s1">&#39;https://github.com/loverajoel/magicplaylist&#39;</span><span class="p">,</span>
-        <span class="nx">roles</span><span class="o">:</span> <span class="p">[</span><span class="s1">&#39;autor&#39;</span><span class="p">],</span>
-        <span class="nx">tags</span><span class="o">:</span> <span class="p">[</span><span class="s1">&#39;js&#39;</span><span class="p">,</span> <span class="s1">&#39;es6&#39;</span><span class="p">,</span> <span class="s1">&#39;music&#39;</span><span class="p">,</span> <span class="s1">&#39;spotify&#39;</span><span class="p">,</span> <span class="s1">&#39;react&#39;</span><span class="p">,</span> <span class="s1">&#39;flux&#39;</span><span class="p">]</span>
-    <span class="p">},</span>
-    <span class="p">{</span>
-        <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;timeance.js&#39;</span><span class="p">,</span>
-        <span class="nx">repository</span><span class="o">:</span> <span class="s1">&#39;https://github.com/loverajoel/timeance.js&#39;</span><span class="p">,</span>
-        <span class="nx">roles</span><span class="o">:</span> <span class="p">[</span><span class="s1">&#39;autor&#39;</span><span class="p">],</span>
-        <span class="nx">tags</span><span class="o">:</span> <span class="p">[</span><span class="s1">&#39;js&#39;</span><span class="p">,</span> <span class="s1">&#39;performance&#39;</span><span class="p">]</span>
-    <span class="p">},</span>
-    <span class="p">{</span>
-        <span class="nx">name</span><span class="o">:</span> <span class="s1">&#39;sqlalchemy-elasticquery&#39;</span><span class="p">,</span>
-        <span class="nx">repository</span><span class="o">:</span> <span class="s1">&#39;https://github.com/loverajoel/sqlalchemy-elasticquery&#39;</span><span class="p">,</span>
-        <span class="nx">roles</span><span class="o">:</span> <span class="p">[</span><span class="s1">&#39;autor&#39;</span><span class="p">],</span>
-        <span class="nx">tags</span><span class="o">:</span> <span class="p">[</span><span class="s1">&#39;python&#39;</span><span class="p">,</span> <span class="s1">&#39;sqlalchemy&#39;</span><span class="p">]</span>
-    <span class="p">}</span>
-<span class="p">];</span>
 
-<span class="nb">Object</span><span class="p">.</span><span class="nx">assign</span><span class="p">({},</span> <span class="nx">me</span><span class="p">,</span> <span class="nx">profiles</span><span class="p">,</span> <span class="p">{</span><span class="nx">currentPosition</span><span class="p">},</span> <span class="p">{</span><span class="nx">blog</span><span class="p">},</span> <span class="p">{</span><span class="nx">openSource</span><span class="p">},</span> <span class="p">{</span><span class="nx">sideProjects</span><span class="p">})</span>
-</code></pre></div>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-73137344-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-</body>
-</html>
