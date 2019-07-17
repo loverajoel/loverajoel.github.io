@@ -13,6 +13,17 @@ Writing a summary and a takeaway for each book I read is part of my book reading
 
 ---
 
+## [Managing Oneself by Peter F Drucker](https://www.goodreads.com/book/show/2477223.Managing_Oneself)
+Successful careers are not planned. Successful careers are developed by preparing for opportunities. To succeed you need to know your strengths, how do you perform, what are your values and what you can contribute to a company/project.
+
+### The quote
+> The people who plan their second career is a minority, but they are the leaders and become role models for many. The majority “retire” with their first career and just count the rest of the days for actual retirement. These second careers help one to be focussed while having tough times during their lives and also help to contribute and make a difference.
+
+### Takeaway
+The most successful people manage themselves, determine who are, write their values and plan a second career.
+
+---
+
 ## [Digital Minimalism by Cal Newport](https://www.goodreads.com/book/show/40672036-digital-minimalism)
 Digital Minimalism  A philosophy of technology use in which you focus your online time on a small number of carefully selected and optimized activities that strongly support things you value, and then happily miss out on everything else.
 
@@ -21,5 +32,3 @@ Digital Minimalism  A philosophy of technology use in which you focus your onlin
 
 ### Takeaway
 Use tech/online only with things that strongly support things you value.
-
----
