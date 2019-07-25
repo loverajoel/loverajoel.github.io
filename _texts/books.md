@@ -32,3 +32,17 @@ Digital Minimalism  A philosophy of technology use in which you focus your onlin
 
 ### Takeaway
 Use tech/online only with things that strongly support things you value.
+
+---
+
+## [Good Strategy Bad Strategy by Richard P. Rumelt](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy)
+Developing and implementing strategy is the central task of a leader. Bad strategy fails to recognize or define the challenge, is full of fluff, motivational slogans and financial goals. Many bad strategies are just statements of desire rather than plans for overcoming obstacles.
+Good strategy is not just “what” you are trying to do. It is also “why” and “how” you are doing. A good strategy recognizes the nature of the challenge and offers a way of surmounting.
+
+### The quote
+> And strategy, responsive to innovation and ambition, selects the path, identifying how, why, and where leadership and determination are to be applied.
+
+### Takeaway
+Create a good strategy gives leverage over competitors and turns vision into reality.
+
+
