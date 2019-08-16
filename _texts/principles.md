@@ -11,7 +11,7 @@ title: Principles
 
 **Healthy:** Life is once, but it’s a long experiment, take care of it in order to live it with energy and vitality. Exercise, eat healthily, meditate and sleep well.  Use habits so you can do it effortlessly.
 
-**Seek mastery:** Always be improving and learning something new, prepare for the next you in 5 years. Take risks, move fast and break things, but wisely.  Stay uncomfortable.
+**Seek mastery:** Always be improving and learning something new, prepare for the next you in 5 years. Take risks, move fast and break things, but wisely. Stay uncomfortable. Be antifragile.
 
 **Helpfulness:**  Be the person that everybody knows that you are up for them, take a breath, listen carefully, think and solve.
 
