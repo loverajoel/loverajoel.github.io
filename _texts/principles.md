@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Principles
-date: 06/30/2019
+date: 2019/06/30
 ---
 
 # Principles

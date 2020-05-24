@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The timeless life compass
-date: 06/24/2019
+date: 2019/06/24
 ---
 
 # The timeless life compass
