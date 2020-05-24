@@ -9,10 +9,10 @@ title: Principles
 
 **Integrity:** Lives as if your life will be written in a rock, honor honesty and respect.  Trust in your path.
 
-**Healthy:** Life is once, but it’s a long experiment, take care of it in order to live it with energy and vitality. Exercise, eat healthily, meditate and sleep well.  Use habits so you can do it effortlessly.
+**Healthy:** Life is once, but it’s a long experiment, take care of it in order to live it with energy and vitality. Exercise, eat healthily, meditate, and sleep well. Use habits so you can do it effortlessly.
 
 **Seek mastery:** Always be improving and learning something new, prepare for the next you in 5 years. Take risks, move fast and break things, but wisely. Stay uncomfortable. Be antifragile.
 
-**Helpfulness:**  Be the person that everybody knows that you are up for them, take a breath, listen carefully, think and solve.
+**Helpfulness:**  Be the person that everybody knows that you are up for when they need you. Slow down, take a deep breath, and get curious about what’s happening. 
 
 **Quality time:** It’s what I call the time with family, friends and your partner. Make this time count.
