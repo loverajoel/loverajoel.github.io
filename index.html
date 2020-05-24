@@ -19,7 +19,8 @@ title: "Joel Lovera"
 <div class="toc">
   <h2>texts</h2>
   <ul class="texts">
-  {% for item in site.texts %}
+  {% assign sorted = (site.texts | sort: 'date') | reverse %}
+  {% for item in assign %}
   
     <li class="text-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
