@@ -23,7 +23,7 @@ Principles are the laws of nature and can become personal guidelines.
 
 Principles serve as foundations that get you what you want our of life.
 
-A principle is a matter of cause and effect.
+Principles are a matter of cause and effect.
 
 Principles allow us to make adjustments in our lives to incorporate meaningful changes that you want to embrace.
 
