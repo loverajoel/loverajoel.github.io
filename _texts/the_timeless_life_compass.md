@@ -6,7 +6,7 @@ date: 2019/06/24
 
 # The timeless life compass
 
-WWhy don’t you steal? Is it because you’re empathetic for your victims? Or because you’re afraid of getting caught?
+Why don’t you steal? Is it because you’re empathetic for your victims? Or because you’re afraid of getting caught?
 
 The answers to those questions are the fundamental principles that form the foundation of your values.
 
