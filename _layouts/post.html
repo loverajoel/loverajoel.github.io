@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-
-<div class="post">
+<a class="name" href="/">{{ site.title | escape }}</a>
+<div>
   {{ content }}
 </div>
+<p class="gray small">Published on {{ page.date | date: "%B %-d, %Y" }}</p>
+{% include footer.html %}

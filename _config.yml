@@ -1,9 +1,9 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Joel Lovera.
-tagline:             'Innovation starts by listening'
-description:         'Innovation starts by listening'
+title:               J0EL L0VERA
+tagline:             'Joel Lovera personal website.'
+description:         'Joel Lovera personal website.'
 url:                 'https://loverajoel.com'
 baseurl:             ''
 
@@ -12,9 +12,6 @@ author:
   name:              Joel Lovera
   url:               https://twitter.com/loverajoel
   email:             joelalovera@gmail.com
-
-# Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
 
 # Permalinks
 permalink: pretty
@@ -44,6 +41,3 @@ kramdown:
 exclude:
   - optional
   - vendor
-
-# Theme
-theme: "ed."

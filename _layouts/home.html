@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<main>
+
+{{ content }}
+
+  <hr />
+  <h2>texts</h2>
+  <ul class="home-list">
+    {% assign sorted = (site.texts | sort: 'date') %}
+    {% for item in sorted %}
+      <li>
+        <a href="{{ site.baseurl }}{{ item.url }}">
+          {{ item.title }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+
+</main>
