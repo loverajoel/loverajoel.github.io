@@ -7,7 +7,7 @@ layout: default
 </div>
 <p class="gray small">
   {% if page.tweet != nil %}
-  <a class="gray" href="#">Comments</a> | 
+  <a class="gray" href="https://twitter.com/loverajoel/status/{{ page.tweet }}" target="_blank">Comments</a> | 
   {% endif %}
   Published on {{ page.date | date: "%B %-d, %Y" }}
   {% if page.updated != nil %}
