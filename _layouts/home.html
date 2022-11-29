@@ -3,12 +3,11 @@ layout: default
 ---
 <main>
 
-{{ content }}
-
+  {{ content }}
   <hr />
   <h2>texts</h2>
   <ul class="home-list">
-    {% assign sorted = (site.texts | sort: 'date') %}
+    {% assign sorted = site.texts | sort: 'date' | reverse %}
     {% for item in sorted %}
       <li>
         <a href="{{ site.baseurl }}{{ item.url }}">

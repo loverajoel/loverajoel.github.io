@@ -5,5 +5,13 @@ layout: default
 <div>
   {{ content }}
 </div>
-<p class="gray small">Published on {{ page.date | date: "%B %-d, %Y" }}</p>
+<p class="gray small">
+  {% if page.tweet != nil %}
+  <a class="gray" href="#">Comments</a> | 
+  {% endif %}
+  Published on {{ page.date | date: "%B %-d, %Y" }}
+  {% if page.updated != nil %}
+  - Last updated on {{ page.updated | date: "%B %-d, %Y" }}.
+  {% endif %}
+</p>
 {% include footer.html %}
