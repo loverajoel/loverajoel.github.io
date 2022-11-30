@@ -1,0 +1,30 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="https://www.w3.org/2005/Atom">
+
+ <title>{{ site.title }}</title>
+ <link href="{{ site.url }}{{ site.baseurl }}/feed.xml" rel="self"/>
+ <link href="{{ site.url }}{{ site.baseurl }}/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>{{ site.url }}</id>
+ <author>
+   <name>{{ site.author.name }}</name>
+   <email>{{ site.author.email }}</email>
+ </author>
+
+{% assign sorted = site.texts | sort: 'date' | reverse %}
+{% for item in sorted %}
+
+ <entry>
+   <title>{{ item.title }}</title>
+   <link href="{{ site.url }}{{ item.url }}"/>
+   <updated>{{ item.date | date_to_xmlschema }}</updated>
+   <id>{{ site.url }}{{ site.baseurl }}{{ item.id }}</id>
+   <content type="html">{{ item.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+
+</feed>
