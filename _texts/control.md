@@ -2,7 +2,7 @@
 layout: post
 title: focus on what you can control
 date: 2022/11/30
-updated:
+updated: 1597953216872083457
 ---
 
 # focus on what you can control
