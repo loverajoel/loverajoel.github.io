@@ -3,7 +3,7 @@ layout: post
 title: product resources list
 date: 2022/12/08
 updated:
-tweet: 
+tweet: 1600797328541376512
 ---
 
 # product resources list
