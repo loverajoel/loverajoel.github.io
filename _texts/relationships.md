@@ -25,6 +25,8 @@ Sadly, relationship building doesn't come naturally to me. I knew I needed help.
 
 Over the holidays, I made the first prototype. It was simple, but it helped. I began talking to friends I hadn't seen in years. I felt lighter, and my new friends noticed my effort. It was working!
 
+![Foreva app](https://user-images.githubusercontent.com/1700100/230541042-f876d605-4920-4d07-8a0e-d8967fc6ae3a.png "Foreva app")
+
 The app isn't perfect yet, and there's still a lot to iterate. If you have the same problem and want to get better at building relationships, feel free to join [the beta version](https://testflight.apple.com/join/REZhfAmi) and let's fix this problem together.
 
 If you want to follow the journey, find me on Twitter where I post updates regularly.
