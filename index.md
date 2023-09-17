@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Joel Lovera
 ---
 <span>Hey, I'm Joel.</span><br><br>
 Builder. Currently, Head of Product at [Levain](https://levain.tech/). Passionate about problem solving, strategy, building things, and occasionally helping founders. Based in [📍Singapore](https://en.wikipedia.org/wiki/Singapore).
