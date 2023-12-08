@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In tech, be a generalist
+title: in tech, be a generalist
 date: 2023/12/08
 tweet:
 ---
