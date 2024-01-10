@@ -7,14 +7,18 @@ tweet:
 
 # questioning norms
 
-If you’re doing things the way they have always been done, you’re always going to be playing catch-up.
+If you do things as they've always been done, you will lag behind.
 
-What if the best methods are not the accepted ones?
+The best chefs experiment with blending diverse cuisines, creating new flavors and unique dishes.
 
-Conventions might exist not because they’re the best, but because they’re familiar and go unchallenged.
+The spirit of experimentation questions the assumption that established methods are superior.
 
-In a dynamic market, clinging to traditional methods may cause you to miss innovation and differentiation opportunities.
+Conventions persist not because they’re the best, but because they’re familiar and unchallenged.
 
-Challenging conventional wisdom helps us determine if practices are effective or merely traditional. It forces a reevaluation of assumptions underpinning common practices. Questioning the status quo leads to rebuilding strategies and processes from scratch. 
+Sticking to traditional methods can cause you to miss opportunities for innovation and differentiation.
 
-It’s about finding innovative ways to compete, not just imitating what established incumbents do.
+Challenging conventional wisdom tests the efficacy of practices beyond tradition. It prompts reevaluation of common methods.
+
+Questioning the status quo leads to the redesign of strategies and processes.
+
+At its core, it's about finding new paths to success, about competing in ways not yet imagined.

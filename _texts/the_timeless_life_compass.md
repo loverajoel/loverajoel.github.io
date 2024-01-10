@@ -7,23 +7,23 @@ updated:
 
 # the timeless life compass
 
-Why don’t you steal? Is it because you’re empathetic towards your victims? Or because you’re afraid of getting caught?
+Do you not steal because you empathize with your victims or because you fear getting caught?
 
 The answers to those questions are the principles that form your values.
 
-Your core values are important to you and guide your life. Your principles ensure consistency with these values.
+Your core values guide your life; your principles ensure consistency.
 
 Principles shape and control behavior; they are rules and beliefs that steer life.
 
 Principles are nouns, not verbs.
 
-Principles are guides when uncertain or seeking answers.
+Principles guide when uncertain or seeking answers.
 
 Principles are boring; they don’t inspire.
 
 Principles are nature’s laws; they can become personal guidelines.
 
-Principles serve as foundations that help you get what you want in life.
+Principles are foundations that help you achieve what you want in life.
 
 Principles are cause and effect.
 
