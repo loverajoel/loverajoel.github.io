@@ -15,7 +15,7 @@ I call them as _"non-upward books."_
 
 Their main takeaways fit in an essay, but greed motivates the author to bloat the book with unnecessary filler.
 
-![](https://lex-img-p.s3.us-west-2.amazonaws.com/img/bc35031a-bd68-4a96-a37c-e64f673c6df7-RackMultipart20240116-160-jcee8b.png)
+![](https://lex-img-p.s3.us-west-2.amazonaws.com/img/eb9b5f00-8743-4173-a90b-2a200f5fe850-RackMultipart20240118-147-hkhz2i.png)
 
 Great books maintain an upward trajectory in learning and engagement, delivering consistent value from start to finish. _Non-upward_ _books_ peak after the first chapter and then plummet.
 
