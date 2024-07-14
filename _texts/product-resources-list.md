@@ -46,7 +46,6 @@ Frequently I find myself in 1:1s with people interested in exploring or moving i
 - [Nikhyl Singhal, VP of Product at Facebook on the Product Craft](https://open.spotify.com/episode/00Rb6BMCHLpN47AnUYSMNl?si=51532eea62e24fcf)
 - [Productboard founder and CEO Hubert Palan on mastering product strategy](https://open.spotify.com/episode/60B4DrF4z39qxtEduC9B5O)
 - [The Real Product Market Fit, Michael Seibel](https://www.youtube.com/watch?v=FBOLk9s9Ci4&t=1s)
-- [Head of Product, Geoff Charles Shares Product Playbook On How Ramp Raised $800m in 18 Months](https://www.youtube.com/watch?v=y9O0XBALCiI)
 
 ## Twitter threads
 - [Getting better at product strategy, Lenny Rachitsky](https://twitter.com/lennysan/status/1303356480842682368)
@@ -56,6 +55,7 @@ Frequently I find myself in 1:1s with people interested in exploring or moving i
 ## Talks
 - [Why Leaders Eat Last, Simon Sinek](https://www.youtube.com/watch?v=ReRcHdeUG9Y)
 - [Mastering the Problem Space for Product/Market Fit, Dan Olsen](https://www.mindtheproduct.com/mastering-the-problem-space-for-product-market-fit-by-dan-olsen/)
+- [Head of Product, Geoff Charles Shares Product Playbook On How Ramp Raised $800m in 18 Months](https://www.youtube.com/watch?v=y9O0XBALCiI)
 
 ## Courses
 - [Become a Product Manager - Learn the Skills & Get the Job, Udemy](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/)
